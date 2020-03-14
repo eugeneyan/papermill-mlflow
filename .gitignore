@@ -1,0 +1,7 @@
+venv/
+.DS_Store
+.idea
+artifact_dir
+notebooks/mlruns
+notebooks/.ipynb_checkpoints
+*.pyc
