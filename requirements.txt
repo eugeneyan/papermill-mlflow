@@ -73,7 +73,7 @@ qtconsole==4.7.1
 QtPy==1.9.0
 querystring-parser==1.2.4
 regex==2020.2.20
-requests==2.23.0
+requests==2.31.0
 scikit-learn==0.22.2.post1
 scipy==1.4.1
 Send2Trash==1.5.0
