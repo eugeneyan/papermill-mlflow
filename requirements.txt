@@ -19,7 +19,7 @@ docker==4.2.0
 entrypoints==0.3
 Flask==2.3.2
 gitdb==4.0.2
-GitPython==3.1.32
+GitPython==3.1.34
 gorilla==0.3.0
 gunicorn==20.0.4
 idna==2.9
