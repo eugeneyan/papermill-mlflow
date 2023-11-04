@@ -93,7 +93,7 @@ tornado==6.3.3
 tqdm==4.43.0
 traitlets==4.3.3
 typed-ast==1.4.1
-urllib3==1.26.5
+urllib3==1.26.18
 wcwidth==0.1.8
 webencodings==0.5.1
 websocket-client==0.57.0
