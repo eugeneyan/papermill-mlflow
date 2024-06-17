@@ -74,7 +74,7 @@ QtPy==1.9.0
 querystring-parser==1.2.4
 regex==2020.2.20
 requests==2.32.0
-scikit-learn==0.22.2.post1
+scikit-learn==1.5.0
 scipy==1.10.0
 Send2Trash==1.5.0
 simplejson==3.17.0
